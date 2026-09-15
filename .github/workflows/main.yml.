@@ -14,5 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run a test
-        exit 1
-
+        echo"DevOps ci is working! "
